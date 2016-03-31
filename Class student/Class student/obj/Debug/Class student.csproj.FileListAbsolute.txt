@@ -1,0 +1,6 @@
+C:\Users\Ayan\yeshimkenovayan\Class student\Class student\bin\Debug\Class student.exe.config
+C:\Users\Ayan\yeshimkenovayan\Class student\Class student\bin\Debug\Class student.exe
+C:\Users\Ayan\yeshimkenovayan\Class student\Class student\bin\Debug\Class student.pdb
+C:\Users\Ayan\yeshimkenovayan\Class student\Class student\obj\Debug\Class student.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\yeshimkenovayan\Class student\Class student\obj\Debug\Class student.exe
+C:\Users\Ayan\yeshimkenovayan\Class student\Class student\obj\Debug\Class student.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ayan\yeshimkenovayan\stack\stack\bin\Debug\stack.exe.config
+C:\Users\Ayan\yeshimkenovayan\stack\stack\bin\Debug\stack.exe
+C:\Users\Ayan\yeshimkenovayan\stack\stack\bin\Debug\stack.pdb
+C:\Users\Ayan\yeshimkenovayan\stack\stack\obj\Debug\stack.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\yeshimkenovayan\stack\stack\obj\Debug\stack.exe
+C:\Users\Ayan\yeshimkenovayan\stack\stack\obj\Debug\stack.pdb

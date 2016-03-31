@@ -1,0 +1,6 @@
+C:\Users\Ayan\yeshimkenovayan\with split\with split\bin\Debug\with split.exe.config
+C:\Users\Ayan\yeshimkenovayan\with split\with split\bin\Debug\with split.exe
+C:\Users\Ayan\yeshimkenovayan\with split\with split\bin\Debug\with split.pdb
+C:\Users\Ayan\yeshimkenovayan\with split\with split\obj\Debug\with split.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\yeshimkenovayan\with split\with split\obj\Debug\with split.exe
+C:\Users\Ayan\yeshimkenovayan\with split\with split\obj\Debug\with split.pdb

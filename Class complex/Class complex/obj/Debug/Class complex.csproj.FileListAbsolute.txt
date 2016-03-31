@@ -1,0 +1,6 @@
+C:\Users\Ayan\yeshimkenovayan\Class complex\Class complex\bin\Debug\Class complex.exe.config
+C:\Users\Ayan\yeshimkenovayan\Class complex\Class complex\obj\Debug\Class complex.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\yeshimkenovayan\Class complex\Class complex\bin\Debug\Class complex.exe
+C:\Users\Ayan\yeshimkenovayan\Class complex\Class complex\bin\Debug\Class complex.pdb
+C:\Users\Ayan\yeshimkenovayan\Class complex\Class complex\obj\Debug\Class complex.exe
+C:\Users\Ayan\yeshimkenovayan\Class complex\Class complex\obj\Debug\Class complex.pdb

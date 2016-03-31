@@ -1,0 +1,6 @@
+C:\Users\Ayan\yeshimkenovayan\lab2_dop1\lab2_dop1\bin\Debug\lab2_dop1.exe.config
+C:\Users\Ayan\yeshimkenovayan\lab2_dop1\lab2_dop1\bin\Debug\lab2_dop1.exe
+C:\Users\Ayan\yeshimkenovayan\lab2_dop1\lab2_dop1\bin\Debug\lab2_dop1.pdb
+C:\Users\Ayan\yeshimkenovayan\lab2_dop1\lab2_dop1\obj\Debug\lab2_dop1.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\yeshimkenovayan\lab2_dop1\lab2_dop1\obj\Debug\lab2_dop1.exe
+C:\Users\Ayan\yeshimkenovayan\lab2_dop1\lab2_dop1\obj\Debug\lab2_dop1.pdb

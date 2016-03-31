@@ -1,0 +1,6 @@
+C:\Users\Ayan\yeshimkenovayan\lab3_Snake\lab3_Snake\bin\Debug\lab3_Snake.exe.config
+C:\Users\Ayan\yeshimkenovayan\lab3_Snake\lab3_Snake\bin\Debug\lab3_Snake.exe
+C:\Users\Ayan\yeshimkenovayan\lab3_Snake\lab3_Snake\bin\Debug\lab3_Snake.pdb
+C:\Users\Ayan\yeshimkenovayan\lab3_Snake\lab3_Snake\obj\Debug\lab3_Snake.csprojResolveAssemblyReference.cache
+C:\Users\Ayan\yeshimkenovayan\lab3_Snake\lab3_Snake\obj\Debug\lab3_Snake.exe
+C:\Users\Ayan\yeshimkenovayan\lab3_Snake\lab3_Snake\obj\Debug\lab3_Snake.pdb
